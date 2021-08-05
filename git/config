@@ -3,3 +3,6 @@
 	eol = lf
 [pull]
 	rebase = true
+[user]
+	email = benjamin.colin.dev@gmail.com
+	name = Benzébuth

@@ -6,3 +6,7 @@
 # Setting it to the default location.
 export XDG_CONFIG_HOME="$HOME/.config"
 export ZDOTDIR="$XDG_CONFIG_HOME/zsh"
+. "$HOME/.cargo/env"
+
+eval "$(ssh-agent -s)" > /dev/null
+ssh-add ~/.ssh/manjaro_key 2> /dev/null
