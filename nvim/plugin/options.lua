@@ -93,3 +93,5 @@ vim.opt.belloff = 'all'
 
 vim.cmd 'colorscheme OceanicNext'
 vim.opt.fillchars = { vert = ' ', eob = ' ' }
+
+vim.opt.mouse = "a"

@@ -9,3 +9,5 @@ alias vim="$EDITOR"
 
 alias ls="lsd"
 alias ll="lsd -la"
+
+alias gcc="clang"
