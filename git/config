@@ -6,3 +6,5 @@
 [user]
 	email = benjamin.colin.dev@gmail.com
 	name = Benzébuth
+[init]
+	defaultBranch = main
